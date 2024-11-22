@@ -1,0 +1,31 @@
+{
+  "name": "dropdown-component-courleciel",
+  "version": "1.0.0",
+  "description": "Un composant Dropdown réutilisable pour React",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "npx babel src --out-dir dist",
+    "test": "echo 'Ajouter des tests ici !'"
+  },
+  "keywords": [
+    "dropdown",
+    "select",
+    "react",
+    "form",
+    "component"
+  ],
+  "author": "Courleciel",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.25.9",
+    "@babel/core": "^7.26.0",
+    "@babel/preset-env": "^7.26.0",
+    "@babel/preset-react": "^7.25.9"
+  }
+}
