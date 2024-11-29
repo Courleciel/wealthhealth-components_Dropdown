@@ -70,7 +70,7 @@ Vous pouvez personnaliser l'apparence du menu déroulant en :
 ## 🔗 Liens
 
 - **[Dépôt GitHub](https://github.com/Courleciel/wealthhealth-components_Dropdown)**
-- **[Package NPM](https://www.npmjs.com/package/dropdown-component-courleciel)**
+- **[Package NPM](https://www.npmjs.com/package/@courleciel/dropdown)**
 
 ---
 
