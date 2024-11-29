@@ -1,7 +1,7 @@
 
-# Composant Dropdown - Courleciel
+# @courleciel/dropdown
 
-`dropdown-component-courleciel` est une solution légère et flexible pour intégrer des menus déroulants dans vos applications web. Il est conçu pour être simple à utiliser tout en offrant une personnalisation facile.
+`@courleciel/dropdown` est une solution légère et flexible pour intégrer des menus déroulants dans vos applications web. Il est conçu pour être simple à utiliser tout en offrant une personnalisation facile.
 
 ---
 
