@@ -10,7 +10,7 @@
 Installez le composant via npm :
 
 ```bash
-npm install dropdown-component-courleciel
+npm install @courleciel/dropdown
 ```
 
 ---
