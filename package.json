@@ -1,6 +1,6 @@
 {
-  "name": "dropdown-component-courleciel",
-  "version": "1.0.0",
+  "name": "@courleciel/dropdown",
+  "version": "1.0.1",
   "description": "Un composant Dropdown réutilisable pour React",
   "main": "dist/index.js",
   "module": "dist/index.js",
